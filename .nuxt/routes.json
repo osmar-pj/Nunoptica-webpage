@@ -1,0 +1,44 @@
+[
+  {
+    "name": "components-Banner",
+    "path": "/components/Banner",
+    "component": "C:\\\\wamp64\\\\www\\\\nunoptica\\\\resources\\\\nuxt\\\\pages\\\\components\\\\Banner.vue",
+    "chunkName": "pages/components/Banner"
+  },
+  {
+    "name": "components-Footer",
+    "path": "/components/Footer",
+    "component": "C:\\\\wamp64\\\\www\\\\nunoptica\\\\resources\\\\nuxt\\\\pages\\\\components\\\\Footer.vue",
+    "chunkName": "pages/components/Footer"
+  },
+  {
+    "name": "components-Header",
+    "path": "/components/Header",
+    "component": "C:\\\\wamp64\\\\www\\\\nunoptica\\\\resources\\\\nuxt\\\\pages\\\\components\\\\Header.vue",
+    "chunkName": "pages/components/Header"
+  },
+  {
+    "name": "components-Section1",
+    "path": "/components/Section1",
+    "component": "C:\\\\wamp64\\\\www\\\\nunoptica\\\\resources\\\\nuxt\\\\pages\\\\components\\\\Section1.vue",
+    "chunkName": "pages/components/Section1"
+  },
+  {
+    "name": "components-Section2",
+    "path": "/components/Section2",
+    "component": "C:\\\\wamp64\\\\www\\\\nunoptica\\\\resources\\\\nuxt\\\\pages\\\\components\\\\Section2.vue",
+    "chunkName": "pages/components/Section2"
+  },
+  {
+    "name": "components-Section3",
+    "path": "/components/Section3",
+    "component": "C:\\\\wamp64\\\\www\\\\nunoptica\\\\resources\\\\nuxt\\\\pages\\\\components\\\\Section3.vue",
+    "chunkName": "pages/components/Section3"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\wamp64\\\\www\\\\nunoptica\\\\resources\\\\nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
